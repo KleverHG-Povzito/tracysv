@@ -1,3 +1,6 @@
+import os
+
+TOKEN = os.getenv("TOKEN")
 
 CHANNEL_ID = 1399758565606162562  # ID del canal a editar el mensaje
 
